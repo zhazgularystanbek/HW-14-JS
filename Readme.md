@@ -1,2 +1,2 @@
 ### Link:
-https://zhazgularystanbek.github.io/HW-14-JS/git 
+https://zhazgularystanbek.github.io/HW-14-JS/
